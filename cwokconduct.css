@@ -1,0 +1,32 @@
+ #conducttitle {
+     background-color: #F7CAC9;
+     padding: 100px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-family: sans-serif;
+     text-align: justify;
+     color: white;
+     font-size: 50px;
+}
+
+#harassment {
+     background-color: #4169E1;
+     padding: 100px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-family: sans-serif;
+     font-size: 18px;
+     font-weight: bolder;
+     color: white;
+     text-align: justify;
+}
+
+
+#includes {
+     padding: 100px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-family: sans-serif;
+     font-size: 18px;
+     text-align: justify;
+}
